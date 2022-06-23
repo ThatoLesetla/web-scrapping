@@ -25,7 +25,7 @@
     "@nestjs/platform-express": "^6.10.14",
     "@types/cheerio": "^0.22.16",
     "cheerio": "^1.0.0-rc.3",
-    "jsdom": "^16.1.0",
+    "jsdom": "^16.5.0",
     "reflect-metadata": "^0.1.13",
     "request": "^2.88.0",
     "rimraf": "^3.0.0",
